@@ -57060,7 +57060,7 @@ return s+"["+this.b+".."+A.e(r===9007199254740991?"*":r)+"]"}}
 A.W6.prototype={}
 A.DC.prototype={
 N(a,b){var s=null,r=A.acB(s,s,B.T,s,s,s,B.Fp).Y0(B.ae),q=A.aeO(),p=A.a9u(B.T,s,s,s).R8,o=A.eb(p.a),n=A.eb(p.b),m=A.eb(p.c),l=A.eb(p.d),k=A.eb(p.e),j=A.eb(p.f),i=A.eb(p.r),h=A.eb(p.w),g=A.eb(p.x)
-return new A.uM(B.AK,"Portifolio",A.a9u(s,r,A.a9s(A.eb(p.y),A.eb(p.z),A.eb(p.Q),o,n,m,l,k,j,A.eb(p.as),A.eb(p.at),A.eb(p.ax),i,h,g),q),!1,s)}}
+return new A.uM(B.AK,"Portfolio Jon-Coder",A.a9u(s,r,A.a9s(A.eb(p.y),A.eb(p.z),A.eb(p.Q),o,n,m,l,k,j,A.eb(p.as),A.eb(p.at),A.eb(p.ax),i,h,g),q),!1,s)}}
 A.CD.prototype={
 N(a,b){var s,r,q,p,o,n,m="Tem uma ideia? Vamos conversar.",l=null,k="_childToColor",j="joaopaulobrasiliano@gmail.com",i="_childToPad",h="_childToRound",g=A.n4(m)
 g.as=B.cK
